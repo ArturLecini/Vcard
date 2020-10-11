@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Vcard"
+    }
+  },
+  "defaultProject": "Vcard",
+  "cli": {
+    "analytics": false
+  }
 }
